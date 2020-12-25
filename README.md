@@ -1,0 +1,1 @@
+# Self-paced-Learning-Project-3-Squared_diiference_accumulate
