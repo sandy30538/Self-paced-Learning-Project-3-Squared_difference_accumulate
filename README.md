@@ -33,8 +33,8 @@ The github repository for hls projects - Squared Difference Accumulate
 ## Usage
 1. Open Vivado HLS
     * We use **Xilinx ZedBoard Evaluation and Development Kit** to evaulate this project 
-    * Add fp_accum.cpp, fp_accum.h into **Source file**
-    * Add fp_accum_test.cpp into **Test Bench**
+    * Add diff_sq_acc.cpp, diff_sq_acc.h into **Source file**
+    * Add diff_sq_acc_tb.cpp into **Test Bench**
 
 2. Run C Simulation, Run Synthesis, Run Cosimulation, Export IP
 3. Open Vivado 2019.2
@@ -49,7 +49,7 @@ The Squared difference accumulator calculates **Result = (a[0]-b[0])^2 + (a[1]-b
 
 ## References
 * [Xilinx HLx_Examples](https://github.com/Xilinx/HLx_Examples)
-* [[xhls] FP_accum](https://github.com/Xilinx/HLx_Examples/tree/master/Math/fp_accum)
+* [[xhls] squared_difference_accumulate](https://github.com/Xilinx/HLx_Examples/tree/master/Math/squared_difference_accumulate)
 
 <!-- CONTACT -->
 ## Contact
