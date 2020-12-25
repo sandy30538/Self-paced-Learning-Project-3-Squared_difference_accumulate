@@ -45,7 +45,7 @@ The github repository for hls projects - Squared Difference Accumulate
 
 ## Algorithm
 There are 10 random numbers in a[k] and b[k] respectively.  
-The Squared difference accumulator calculates **Result = **(a[0]-b[0])^2 + (a[1]-b[1])^2 + ... + (a[9]-b[9])^2  
+The Squared difference accumulator calculates **Result =** (a[0]-b[0])^2 + (a[1]-b[1])^2 + ... + (a[9]-b[9])^2  
 
 ## References
 * [Xilinx HLx_Examples](https://github.com/Xilinx/HLx_Examples)
