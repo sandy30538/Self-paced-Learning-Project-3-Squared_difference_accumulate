@@ -39,8 +39,8 @@ The github repository for hls projects - Squared Difference Accumulate
 2. Run C Simulation, Run Synthesis, Run Cosimulation, Export IP
 3. Open Vivado 2019.2
 4. Import IP and create Block design
-5. Generate Bitstream
-6.Using PYNQ to control Zedboard
+5. Generate Bitstream  
+6. Using PYNQ to control Zedboard  
 
 
 ## Algorithm
